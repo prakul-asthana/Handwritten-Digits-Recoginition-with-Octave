@@ -1,4 +1,4 @@
-# Handwritten-Digits-Recoginition-with-Octave
+# Handwritten-Digits-Recoginition-with-Octave/MATLAB
 
 ### Using a basic neural network implemented in Octave to recognize handwritten digits from MNIST database
 
